@@ -1,5 +1,5 @@
 # 3-2-DesignPatterns-OOP
-- Start OOP with aggregation and dependency relationship
+- Start OOP with aggregation and dependency relationship. And there is abstract class
 
 ### 👯‍ Relationship 👯
 ``` 
